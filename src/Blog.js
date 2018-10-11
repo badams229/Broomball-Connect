@@ -99,8 +99,6 @@ const featuredPosts = [
   },
 ];
 
-const posts = [post1];
-
 
 const social = ['GitHub', 'Twitter', 'Facebook'];
 
